@@ -1,4 +1,4 @@
-![logo](https://github.com/DDR-155/DDR-155/blob/'Banner Github.png')
+![logo](https://github.com/DDR-155/DDR-155/blob/'Banner%Github.png')
 <h1 align="center">Hi 👋, I'm DDR-155</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
